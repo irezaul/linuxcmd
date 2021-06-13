@@ -98,6 +98,15 @@ ls -F appends symbols to filenames. These symbols show useful information about 
 `$ stat student.txt`
 >
 >
+#### Install latest version of tree
+>`$ sudo apt update
+>`$ sudo apt install tree
+>$ tree --version
+>tree v1.7.0 (c) 1996 - 2014
+>now use tree command ( tree -L 1 )
+
+![link illustration](https://ibb.co/8X6WwLN)
+
 
 
 
