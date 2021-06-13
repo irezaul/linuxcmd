@@ -104,7 +104,7 @@ ls -F appends symbols to filenames. These symbols show useful information about 
 > tree --version
  tree v1.7.0 (c) 1996 - 2014 \
 > now use tree command ( tree -L 1 ) \
-![link illustration](https://ibb.co/8X6WwLN)
+
 
 
 
