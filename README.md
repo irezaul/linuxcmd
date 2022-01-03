@@ -105,6 +105,12 @@ ls -F appends symbols to filenames. These symbols show useful information about 
  tree v1.7.0 (c) 1996 - 2014 \
 > now use tree command ( tree -L 1 ) \
 
+### linux firewall disable & enable also allow to ssh  
+```bash
+ufw disable
+sudo ufw allow ssh
+ufw enable
+```
 
 
 
